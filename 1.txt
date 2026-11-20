@@ -2,4 +2,8 @@
 
 bugun githubga push qilishni o'rgandik
 
+<<<<<<< HEAD
 fhghsgrdyufgyuasd
+=======
+fgvsdfgvhhjdgj
+>>>>>>> d36fb30dc30ce73b0239faac6fcca7a1b349a3d7
